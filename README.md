@@ -25,7 +25,9 @@ http://admin.appkefu.com/AppKeFu/doc/pc.html
 
 #### 2016-09-28: version 4.2.0
 * 增加登录ip服务器
-
+#### 2016-10-30: version 4.3.0
+* 增加登录ip服务器提示
+* 优化用户体验
 
 
 
